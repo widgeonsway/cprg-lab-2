@@ -38,7 +38,7 @@ main {
   }
 
   .pressed {
-    button:active {
+    button:focus {
         background-color: green;
     }
   }
